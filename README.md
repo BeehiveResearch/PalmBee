@@ -22,8 +22,8 @@ It leverages:
 - Zed2i Camera
 
 ## Wiki
-- For Documentation, please check on : [PalmBee Documentation](https://beehivecng.github.io/palmbee-docs/)
-- For Installation, please refer to : [PalmBee Installation](https://beehivecng.github.io/palmbee-docs/setup/installation/)
+- For Documentation, please check on : [PalmBee Documentation](https://beehiveresearch.github.io/palmbee-docs/)
+- For Installation, please refer to : [PalmBee Installation](https://beehiveresearch.github.io/palmbee-docs/setup/installation/)
 
 
 ## Contributing
